@@ -1,0 +1,2 @@
+CSV: /home/chirag/CascadeProjects/cold mail/example_recipients.csv
+command: source venv/bin/activate && python email_sender.py
